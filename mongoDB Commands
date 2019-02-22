@@ -1,0 +1,11 @@
+#Our first Mongo Commands
+
+* mongod
+* mongo
+* help
+* show dbs
+* use
+* insert  => Create
+* find    => Read
+* update  => Update
+* remove  => Delete
